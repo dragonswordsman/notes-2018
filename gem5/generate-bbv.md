@@ -3,7 +3,7 @@
 [Simpoint 官网](http://cseweb.ucsd.edu/~calder/simpoint/)详细介绍了
 simpoint，我这里简单介绍下。
 
-1. simpoint为何诞生？
+- simpoint为何诞生？
 
   体系结构研究有3种方法：
   - 流片
